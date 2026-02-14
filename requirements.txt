@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+xgboost
+geneticalgorithm
+joblib
+scikit-learn
+psycopg2-binary
+boto3
